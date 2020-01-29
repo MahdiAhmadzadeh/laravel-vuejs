@@ -1,0 +1,69 @@
+input {
+    text-align: right;
+}
+
+.alert-success {
+    text-align: right;
+    margin-top: 50px;
+}
+
+.card {
+    text-align: right;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+[v-cloak] {
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+
+.divForm {
+    margin: 0px auto;
+    position: absolute;
+    top: 113px;
+    background: #ccc;
+    right: 279px;
+    padding: 20px;
+    border-radius: 20px;
+    z-index: 10;
+}
+
+.alert-sefaresh-danger {
+    position: absolute;
+    top: -68px;
+    width: 509px;
+}
+
+.alert-sefaresh-success {
+    position: absolute;
+    top: -115px;
+    width: 509px;
+    text-align: left !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
